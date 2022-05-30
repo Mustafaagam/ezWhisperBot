@@ -16,9 +16,9 @@ your own
 
 ```
 [pyrogram]
-api_id = 1234567
-api_hash = 0123456789abcdef0123456789abcdef
-bot_token = 123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11
+api_id = 10587823
+api_hash = 87f43674ff44949915d5290028129087
+bot_token = 5459499512:AAFCWqXBgEG41y63xPDz5Y1pKvCyzr8FCMw
 ```
 
 Run the bot
